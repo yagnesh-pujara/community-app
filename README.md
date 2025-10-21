@@ -619,4 +619,10 @@ This project is for educational/demonstration purposes.
 
 ---
 
+## 📹 Video
+
+
+https://github.com/user-attachments/assets/b87dad50-8485-4fd1-996f-ac687f2cee31
+
+
 **Built with FastAPI, React, Supabase, and OpenAI** 🚀
