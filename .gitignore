@@ -25,7 +25,7 @@ frontend/*.sln
 frontend/*.sw?
 
 
-
+frontend/.env
 
 
 # BACKEND FILES
